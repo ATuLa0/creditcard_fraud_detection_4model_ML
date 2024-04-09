@@ -1,4 +1,4 @@
-## Quy Trình
+## Quy Trình (không đề cập tới các quy trình phân tích dữ liệu)
 
 1. **Import Data**: Kiểm tra và xử lý dữ liệu null, duplicate.
 2. **Chuẩn Hóa và Chia Data**: Chuẩn hóa dữ liệu và chia thành tập huấn luyện và tập kiểm tra.
